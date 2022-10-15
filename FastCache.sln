@@ -5,9 +5,9 @@ VisualStudioVersion = 17.3.32901.215
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FastCache", "FastCache\FastCache.csproj", "{3DD23A5F-11D4-43E4-8BD0-1354FBD154CF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTests", "UnitTests\UnitTests.csproj", "{0CD62E2D-1D7F-43A7-AA85-EB0C6F0F69EA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UnitTests", "UnitTests\UnitTests.csproj", "{0CD62E2D-1D7F-43A7-AA85-EB0C6F0F69EA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FastCache.Benchmarks", "FastCache.Benchmarks\FastCache.Benchmarks.csproj", "{DD603B8C-5216-4079-B6B2-5AA54ED1B1F3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FastCache.Benchmarks", "FastCache.Benchmarks\FastCache.Benchmarks.csproj", "{DD603B8C-5216-4079-B6B2-5AA54ED1B1F3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
