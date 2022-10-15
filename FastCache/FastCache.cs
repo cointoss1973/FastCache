@@ -149,7 +149,11 @@ namespace Jitbit.Utils
 			_dict.TryRemove(key, out _);
 		}
 
-		public IEnumerator<KeyValuePair<TKey, TValue>> GetEnumerator()
+        /// <summary>
+        /// GetEnumerator()
+        /// </summary>
+        /// <returns></returns>
+        public IEnumerator<KeyValuePair<TKey, TValue>> GetEnumerator()
 		{
 			foreach (var kvp in _dict)
 			{
