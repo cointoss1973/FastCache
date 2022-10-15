@@ -1,4 +1,4 @@
-using Jitbit.Utils;
+﻿using Jitbit.Utils;
 using Xunit;
 
 namespace FastCache.Tests
