@@ -1,4 +1,5 @@
-﻿namespace UnitTests
+﻿
+namespace FastCache.Tests
 {
 	internal class TestHelper
 	{
